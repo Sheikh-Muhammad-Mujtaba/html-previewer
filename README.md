@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your Next.js project based on the HTML Previewer component:
-
----
-
 # HTML Previewer with Next.js
 
 This is an HTML Previewer built using **Next.js**. It allows users to enter custom HTML code into a text area and see the live preview of that HTML rendered directly on the same page. The app also provides the ability to paste predefined HTML into the editor for previewing.
